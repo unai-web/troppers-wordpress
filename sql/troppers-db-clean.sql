@@ -1,0 +1,1 @@
+-- Base de datos limpia para TROPPERS WordPress
